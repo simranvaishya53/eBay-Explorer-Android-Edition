@@ -33,9 +33,9 @@ The **Node.js backend** is responsible for:
 - Handling **user authentication and API requests**.
 
 ## 📲 Screenshots
-![🔍 Search Page](https://via.placeholder.com/400x300)
-![📋 Search Results](https://via.placeholder.com/400x300)
-![🛒 Product Details](https://via.placeholder.com/400x300)
+![🔍 Search Page](https://raw.githubusercontent.com/simranvaishya53/eBay-Explorer-Android-Edition/main/Android%20Screeshots/Ebay%20form.png)
+![📋 Search Results](https://raw.githubusercontent.com/simranvaishya53/eBay-Explorer-Android-Edition/main/Android%20Screeshots/product.png)
+![🛒 Product Details](https://raw.githubusercontent.com/simranvaishya53/eBay-Explorer-Android-Edition/main/Android%20Screeshots/search-iphone.png)
 
 ## 🔧 Setup & Installation
 1. 📥 Clone this repository:
